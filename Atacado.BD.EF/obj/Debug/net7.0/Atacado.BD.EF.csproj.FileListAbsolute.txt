@@ -1,0 +1,28 @@
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.deps.json
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.runtimeconfig.json
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.dll
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.pdb
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.csproj.AssemblyReference.cache
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.AssemblyInfoInputs.cache
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.AssemblyInfo.cs
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.csproj.CoreCompileInputs.cache
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.dll
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\refint\Atacado.BD.EF.dll
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.pdb
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.genruntimeconfig.cache
+c:\Users\SQL\Documents\Projeto - POO2\Atacado.BD.EF\obj\Debug\net7.0\ref\Atacado.BD.EF.dll
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.deps.json
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.runtimeconfig.json
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.dll
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\bin\Debug\net7.0\Atacado.BD.EF.pdb
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.csproj.AssemblyReference.cache
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.AssemblyInfoInputs.cache
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.AssemblyInfo.cs
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.csproj.CoreCompileInputs.cache
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.dll
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\refint\Atacado.BD.EF.dll
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.pdb
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\Atacado.BD.EF.genruntimeconfig.cache
+c:\Users\SQL\Documents\Projeto - POO2 - Cleber Neto\Atacado.BD.EF\obj\Debug\net7.0\ref\Atacado.BD.EF.dll
