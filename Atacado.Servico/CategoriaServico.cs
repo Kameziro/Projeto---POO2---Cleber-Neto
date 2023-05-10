@@ -14,22 +14,39 @@ public class CategoriaServico : BaseAtacadoContextoServico<CategoriaPoco, Catego
 
     public override CategoriaPoco Alterar(CategoriaPoco poco)
     {
-        throw new NotImplementedException();
+        Categoria tupla = this.Converter(poco);
+        Categoria alterado = this.repo.Update(tupla);
+        CategoriaPoco alteradoPoco = this.Converter(alterado);
+        return alteradoPoco;
     }
 
     public override CategoriaPoco Excluir(int chave)
     {
-        throw new NotImplementedException();
+        Categoria tupla = this.repo.Delete(chave);
+        CategoriaPoco apagado = this.Converter(tupla);
+        return apagado;
     }
 
     public override CategoriaPoco Inserir(CategoriaPoco poco)
     {
-        throw new NotImplementedException();
+        Categoria dom = this.Converter(poco);
+        Categoria novo = this.repo.Create(dom);
+        CategoriaPoco novoPoco = this.Converter(novo);
+        return novoPoco;
     }
 
     public override CategoriaPoco Ler(int chave)
     {
-        throw new NotImplementedException();
+        Categoria tupla = this.repo.Read(chave);
+        if (tupla == null)
+        {
+            return null;
+        }
+        else
+        {
+            CategoriaPoco poco = this.Converter(tupla);
+            return poco;
+        }
     }
 
     public override List<CategoriaPoco> Listar()

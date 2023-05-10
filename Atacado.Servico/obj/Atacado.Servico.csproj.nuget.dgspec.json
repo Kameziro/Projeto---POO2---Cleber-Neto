@@ -136,14 +136,14 @@
         }
       }
     },
-    "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
+    "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
+        "projectUniqueName": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
         "projectName": "Atacado.Repositorio",
-        "projectPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
+        "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
         "packagesPath": "C:\\Users\\SQL\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\obj\\",
+        "outputPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SQL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -231,8 +231,8 @@
               "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj": {
                 "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj"
               },
-              "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
-                "projectPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj"
+              "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj"
               }
             }
           }
