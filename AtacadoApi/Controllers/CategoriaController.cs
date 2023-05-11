@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 namespace AtacadoApi.Controllers;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/Atacado/Estoque/")]
 public class CategoriaController : BaseController
 {
     private CategoriaServico servico;
@@ -16,31 +16,31 @@ public class CategoriaController : BaseController
         this.servico = new CategoriaServico(this.contexto);
     }
 
-    [HttpGet]
+    [HttpGet("Categorias")]
     public List<CategoriaPoco> GetAll()
     {
         return this.servico.Listar();
     }
 
-    [HttpGet("{id}")]
+    [HttpGet("[controller]/{id}")]
     public CategoriaPoco GetById(int id)
     {
         return this.servico.Ler(id);
     }
 
-    [HttpPost]
+    [HttpPost("[controller]")]
     public CategoriaPoco Post([FromBody]CategoriaPoco poco)
     {
         return this.servico.Inserir(poco);
     }
 
-    [HttpPut]
+    [HttpPut("[controller]")]
     public CategoriaPoco Put([FromBody] CategoriaPoco poco)
     {
         return this.servico.Alterar(poco);
     }
 
-    [HttpDelete]
+    [HttpDelete("[controller]/{chave}")]
     public CategoriaPoco Delete(int chave)
     {
         return this.servico.Excluir(chave);

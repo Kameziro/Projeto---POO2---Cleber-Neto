@@ -1,8 +1,12 @@
+using System.Linq.Expressions;
+
 namespace Atacado.Servico;
 
 public abstract class BaseServico<TPoco, TDominioEF> where TPoco : class where TDominioEF : class
 {
     public abstract List<TPoco> Listar();
+
+    public abstract List<TPoco> Listar(Expression<Func<TDominioEF, bool>> predicado);
 
     public abstract TPoco Ler(int chave);
 

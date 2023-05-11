@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "djqWGpSybNz+657Wl2/YA6mr1nbwMDOuWX50uU3L4ZYUB9ZaW2yGrSRWZzb6s1xWmwOrTh06TY0j7LbzesYlug==",
+  "dgSpecHash": "wjCYFuDo9ZYZD4n8h4a90YMzPa8WMmZdLPefuCsII0QOp5mo+q5OoU2j6FruzU4AwSa6R3iVuPnfftxKunXKGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
+  "projectFilePath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SQL\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\SQL\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

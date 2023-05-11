@@ -83,14 +83,14 @@
         }
       }
     },
-    "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj": {
+    "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj",
+        "projectUniqueName": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj",
         "projectName": "Atacado.Poco",
-        "projectPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj",
+        "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj",
         "packagesPath": "C:\\Users\\SQL\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\obj\\",
+        "outputPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SQL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
+    "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
+        "projectUniqueName": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
         "projectName": "Atacado.Repositorio",
-        "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
+        "projectPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
         "packagesPath": "C:\\Users\\SQL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\obj\\",
+        "outputPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SQL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -228,11 +228,11 @@
               "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.BD.EF\\Atacado.BD.EF.csproj": {
                 "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.BD.EF\\Atacado.BD.EF.csproj"
               },
-              "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj": {
-                "projectPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj"
+              "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj": {
+                "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj"
               },
-              "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
-                "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj"
+              "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
+                "projectPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj"
               }
             }
           }
@@ -301,11 +301,11 @@
               "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.BD.EF\\Atacado.BD.EF.csproj": {
                 "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.BD.EF\\Atacado.BD.EF.csproj"
               },
-              "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj": {
-                "projectPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj"
+              "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj": {
+                "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Poco\\Atacado.Poco.csproj"
               },
-              "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
-                "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj"
+              "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
+                "projectPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj"
               },
               "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Servico\\Atacado.Servico.csproj": {
                 "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Servico\\Atacado.Servico.csproj"

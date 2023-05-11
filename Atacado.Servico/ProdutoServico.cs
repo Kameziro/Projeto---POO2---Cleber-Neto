@@ -1,3 +1,4 @@
+using System.Linq.Expressions;
 using Atacado.BD.EF.Database;
 using Atacado.Poco;
 using Atacado.Repositorio;
@@ -53,9 +54,7 @@ public class ProdutoServico
 
     public override List<ProdutoPoco> Listar()
     {
-        return this.repositorio.Read()
-            .Select(tupla => this.Converter(tupla))
-            .ToList<ProdutoPoco>();
+        return this.repositorio.Read().Select(tupla => this.Converter(tupla)).ToList<ProdutoPoco>();
     }
 
     public override ProdutoPoco Converter(Produto dom)
@@ -82,5 +81,10 @@ public class ProdutoServico
             Ativo = poco.Ativo,
             DataInclusao = poco.DataInclusao
         };
-    }    
+    }
+
+    public override List<ProdutoPoco> Listar(Expression<Func<Produto, bool>> predicado)
+    {
+        return this.repositorio.Read(predicado).Select(tupla => this.Converter(tupla)).ToList<ProdutoPoco>();
+    }
 }

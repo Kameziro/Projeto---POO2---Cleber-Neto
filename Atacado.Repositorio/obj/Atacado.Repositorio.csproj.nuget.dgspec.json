@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {}
+    "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {}
   },
   "projects": {
     "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.BD.EF\\Atacado.BD.EF.csproj": {
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
+    "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
+        "projectUniqueName": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
         "projectName": "Atacado.Repositorio",
-        "projectPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
+        "projectPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\Atacado.Repositorio.csproj",
         "packagesPath": "C:\\Users\\SQL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\obj\\",
+        "outputPath": "c:\\Users\\SQL\\Documents\\Projeto - POO2 - Cleber Neto\\Atacado.Repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SQL\\AppData\\Roaming\\NuGet\\NuGet.Config"
